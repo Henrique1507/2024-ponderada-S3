@@ -45,4 +45,12 @@ Em seguida, devemos ir no campo "Auth" e selecionar por "Credentials", para que 
 
  Vale destacar que essa é a última etapa, ou seja, o último método utilizado. Após isso, teremos o resultado que desejamos.
 
- 
+ ## Resultado
+
+ Por fim, após seguir todas as etapas, alcançamos o resultado final inserindo "ec2-user" no campo "login as". Desse modo, obtemos o resultado abaixo.
+
+ <img src='./img/imagem 7.png'>
+
+## Conclusão
+
+Portanto, conclui-se que, seguindo todas as etapas acima, é possível criar uma instância de máquina EC2 na AWS e acessar esta máquina com SSH por meio da ferramenta PuTTy como meio de acesso via remoto.
