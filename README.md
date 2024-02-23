@@ -11,3 +11,11 @@ O objetivo deste documento é mostrar de maneira simplificada e intuitiva a cria
 ## Materiais:
 
 Os materiais necessários para a realização desta atividade são: acesso à uma conta na AWS para a criação de uma instância EC2 e a instalação do software PuTTy.
+
+## Método:
+
+### 1. Criação do par de chaves
+
+Nesta primeira etapa, após acessar a tela inicial e migrar para a EC2, devemos executar uma instância e iniciar sua configuração. Neste momento, o primeiro passo é criar um par de chaves para que possamos conectar com segurança à instância posteriormente. No exemplo abaixo, foi utilizado como chave "Atividade-ponderada-key", que será usada novamente após algumas etapas.
+
+<img src='./img/imagem 1.png'>
